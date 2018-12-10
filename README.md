@@ -2,6 +2,10 @@
 
 Simple GUI program, that lets you scream the contents of your heart out.
 
+## What's this?
+
+This, my friend, is a little piece of code written in OCaml, that enables you to have a karaoke party at your home in functional style. Sort of. As long as you don't need more than three short songs to have fun. And the dull graphical interface doesn't throw you off balance.
+
 ## Getting Started
 
 The best way to experience Karaocaml is by compiling it. 
