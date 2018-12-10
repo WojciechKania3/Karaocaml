@@ -30,6 +30,10 @@ This goes to your command interpreter;
 ```
 And that straight into the newly opened OCaml REPL session with Graphics module loaded and opened.
 
+### Version
+
+The current version of the program is alpha_0.3
+
 ## Built With
 
 * Only the OCaml Standard - and proud of it
