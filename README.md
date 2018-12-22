@@ -36,7 +36,10 @@ And that straight into the newly opened OCaml REPL session with Graphics module 
 
 ### Version
 
-The current version of the program is alpha_0.3
+The current version of the program is alpha_0.3b, which includes:
+* Basically what version alpha_0.3b had,
+* A very simple keyboard mode
+* Bunch of Christmas songs
 
 ## Built With
 
