@@ -1,6 +1,6 @@
 # Karaocaml
 
-Simple GUI program, that lets you scream the contents of your heart out.
+Simple GUI program, that lets you scream the content of your heart out.
 
 ## What's this?
 
